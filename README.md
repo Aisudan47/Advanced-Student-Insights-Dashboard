@@ -83,9 +83,40 @@ Advanced-Student-Insights-Dashboard/
 
 ```
 <br>
-## 🖼️ Dashboard Screenshot: A Sneak Peek
-Here’s a quick glimpse of the dashboard's engaging layout:
 
+## 🖼️ Dashboard Screenshot: A Sneak Peek
+### Here’s a quick glimpse of the dashboard's engaging layout:
+
+
+  ### 1. Student Dashboard
+  
+  - #### **Basic Student Dashboard**
+<img src="student dashboard Basic.png" alt="Alt text">
+
+- #### **Intermediate Student Dashboard only**
+<img src="student dashboard intermediate only.png" alt="Alt text">
+
+- #### **Intermediate Student Dashboard with database**
+<img src="student dashboard intermediate.png" alt="Alt text">
+
+
+ ### 2. Use of Powery Query
+ 
+ - #### Powery Query Uncleaned Data for Sydney
+<img src="powery query uncleaned data for sydney.png" alt="Alt text">
+
+- #### Powery Query cleaned Data for Sydney
+<img src="powery query cleaned data for sydney.png" alt="Alt text">
+
+### 3. Customer and Product Data
+
+  - #### Customer and Products Cleaned Data in Power bi
+<img src="customer and products cleaned data in power bi.png" alt="Alt text">
+
+- #### Customer and Products Cleaned Data with ERD
+<img src="customer and products cleaned data with ERD diagram.png" alt="Alt text">
+ 
+ 
 Features include clearly categorized KPIs, insightful score distribution visuals, in-depth mentorship analysis, and geographic engagement breakdowns—all presented within a responsive, professional dark-themed Power BI interface.
 
 <br>
